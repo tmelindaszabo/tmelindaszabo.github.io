@@ -1,0 +1,49 @@
+nav {
+    background-color: #333333;
+    text-align:right;
+    line-height: 30px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    display: block;
+
+}
+
+body{
+    background-image: url(assets/background.png);
+    background-attachment: fixed;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0%;
+    margin: 0%;
+    
+}
+
+body #introduction {
+    padding-left: 10%;
+    padding-top: 10%;
+    padding-right: 10%;
+}
+
+body #dashed-line {
+    text-align: center;
+}
+
+body #wiki {
+    padding-left: 10%;
+    padding-bottom: 10%;
+    padding-right: 10%;
+}
+
+a, h2 {
+    color: #ff0099;
+}
+
+h3 {
+    text-align: center;
+}
+
+nav img {
+    float: left;
+    background-color: #333333;
+    background-size: contain;
+    margin: auto 0;
+}
